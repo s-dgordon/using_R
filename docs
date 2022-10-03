@@ -1,0 +1,29 @@
+Bienvenida/o/e al Taller "Usando R para analisis cientificos reproducibles" organizado por la Mexican Graduate Student Association at UC Davis y el UCD Data Lab. 
+
+En esta primera parte del taller, estableceremos algunos pasos clave para entender los fundamentos del lenguaje R.
+
+Usaremos RStudio: un entorno de desarrollo integrado y gratuito de código abierto. 
+RStudio proporciona un editor incorporado, funciona en todas las plataformas (incluso en servidores) y ofrece muchas ventajas, 
+como la integración de control de versiones y gestión de proyectos.
+
+Diseño básico
+
+Cuando abres por primera vez el RStudio, serás recibido por tres paneles:
+
+La consola interactiva de R (a la izquierda)
+Ambiente/Historial (en la esquina superior derecha)
+Archivos/Gráficos/Paquetes/Ayuda/Visor (abajo a la derecha)
+
+Si abres archivos, como los scripts R, también se abrirá un panel de editor en la esquina superior izquierda.
+
+Flujo de trabajo dentro de RStudio
+
+Hay dos formas principales en que uno puede trabajar dentro de RStudio.
+
+Probar y jugar dentro de la consola interactiva de R y luego copiar el código en un archivo .R para ejecutarlo más tarde.
+Esto funciona bien cuando se hacen pequeñas pruebas y/o se está comenzando.
+Rápidamente se vuelve laborioso.
+
+Comienza a escribir un archivo en .R y usa las teclas de acceso directo de RStudio para ejecutar la línea actual, las líneas seleccionadas o 
+modificadas en la consola interactiva. Esta es una buena forma de comenzar; todo tu código estará guardado para después.
+Podrás ejecutar el archivo que quieres desde RStudio o mediante la función source () de R.
